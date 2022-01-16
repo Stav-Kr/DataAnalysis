@@ -1,2 +1,2 @@
 # DataAnalysis
-A collection of data analysis assignments and projects
+Analysis of the iris dataset
