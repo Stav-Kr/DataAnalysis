@@ -1,1 +1,1 @@
-# A collection of short programs that I create to solve assignments.
+# A collection of short programs that I wrote to help with calculations.
